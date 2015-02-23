@@ -223,4 +223,6 @@ max-height:100%;
 	boder: 1 px solid;
 }
 
-
+#imgholder{
+	margin: 0 auto;
+}
